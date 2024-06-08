@@ -3,8 +3,8 @@
 
 |Start Date|End Date|Subject|Link|
 |---|---|---|---|
-|05/24|05/31|Preschool Basic Python|
-|06/01|06/06|Basic Python|
+|05/24|05/31|Preschool Basic Python|[prePython](https://github.com/gimbabheaven/zb-ds-28/tree/master/prePython)|
+|06/01|06/06|Basic Python|[Python](https://github.com/gimbabheaven/zb-ds-28/tree/master/Python)|
 |06/07|06/08|Basic Python-PS|
 |06/09||Python Intermediate|
 |||Python Intermediate-PS|
