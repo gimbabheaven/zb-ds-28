@@ -21,7 +21,7 @@ class Car:
 
 
 
-car1 = Car('red', 200) # 객체를 생성하여 변수에 담음
+car1 = Car('red', 200) # 객체를 생성하여 변수(레퍼런스 변수) 에 담음
 car2 = Car('blue', 300)
 
 car1.printCarInfo()

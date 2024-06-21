@@ -25,4 +25,10 @@ myPC = NewGenerationPc('myPc', 'i5', '16GB', '256G')
 myPC.printPcInfo()
 
 friendPC = NewGenerationPc('myPC', 'i7', '32G', '512G')
+friendPC.printPcInfo()
+
+myPC.cpu = 'i9'
+myPC.memory = '64G'
+myPC.ssd = '1T'
+
 myPC.printPcInfo()
