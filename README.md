@@ -6,8 +6,8 @@
 |05/24|05/31|Preschool Basic Python|[prePython](https://github.com/gimbabheaven/zb-ds-28/tree/master/prePython)|
 |06/01|06/06|Basic Python|[Python](https://github.com/gimbabheaven/zb-ds-28/tree/master/Python)|
 |06/10|06/22|Python Intermediate|
-|||Basic Mathmetices|
-|||Data Structure/Algorithm|
+|06/22||Basic Mathmetices|
+|06/22||Data Structure/Algorithm|
 |||Exploratory Data Analysis (EDA)|
 |||SQL|
 |||Statistics|
