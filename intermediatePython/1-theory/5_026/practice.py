@@ -13,15 +13,16 @@ class Triangle:
         print(f'height : {self.height}')
 
     def getArea(self):
-        print(' 아직 모르겠당')
-
+        area = self.width * self.height / 2
+        return area
+    
 class TriangleArea(Triangle):
     def __init__(self, w, h):
         super().__init__(w, h)
 
     def getArea(self):
-        area = self.width * self.height / 2
-        return area
+        pass
+
 
 triangle = TriangleArea(10, 5)
 
