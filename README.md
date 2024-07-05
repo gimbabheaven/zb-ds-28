@@ -8,7 +8,7 @@
 |06/10|06/22|Python Intermediate|
 |06/24|06/25|Data Structure|
 |06/26|06/27|Algorithm|
-|||Exploratory Data Analysis (EDA)|
+|07/06||Exploratory Data Analysis (EDA)|
 |||SQL|
 |||Statistics|
 |||Tableau|
