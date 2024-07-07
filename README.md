@@ -10,7 +10,7 @@
 |06/26|06/27|Algorithm|
 |07/06||Exploratory Data Analysis (EDA)|
 |||SQL|
-|||Statistics|
+|06/16|07/07|Statistics|
 |||Tableau|
 |||Machine Learning|
 |||Deep Learning|
