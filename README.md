@@ -1,6 +1,3 @@
-## 제로베이스 데이터스쿨 [06-01-2024 ~ 11-30-2024]
-> 수업 코드 업로드, 개별 레포지토리에서 작업 후 과정이 끝나면 이관
-
 |Start Date|End Date|Subject|Link|
 |---|---|---|---|
 |05/24|05/31|Preschool Basic Python|[prePython](https://github.com/gimbabheaven/zb-ds-28/tree/master/prePython)|
@@ -8,9 +5,11 @@
 |06/10|06/22|Python Intermediate|
 |06/24|06/25|Data Structure|
 |06/26|06/27|Algorithm|
-|07/06||Exploratory Data Analysis (EDA)|
-|||SQL|
+|07/06|07/31|Exploratory Data Analysis (EDA)|
 |06/16|07/07|Statistics|
-|||Tableau|
-|||Machine Learning|
+|08/10|Machine Learning|
 |||Deep Learning|
+|||Tensorflow|
+|||PyTorch|
+|||OpenCV|
+|||Tableau|
