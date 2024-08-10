@@ -7,7 +7,7 @@
 |06/26|06/27|Algorithm|
 |07/06|07/31|Exploratory Data Analysis (EDA)|
 |06/16|07/07|Statistics|
-|08/10|Machine Learning|
+|08/10||Machine Learning|
 |||Deep Learning|
 |||Tensorflow|
 |||PyTorch|
